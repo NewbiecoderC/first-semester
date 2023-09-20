@@ -1,0 +1,8 @@
+#include <stdio.h>
+  int main (0)
+{
+  printf(“This is a C projiem");
+return (0);
+}
+
+         
